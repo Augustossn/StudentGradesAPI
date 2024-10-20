@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCBF90A-F272-46C5-8398-875D986C04B6}|..\\StudenGradesAPITests\\StudenGradesAPITests.csproj|c:\\users\\augus\\source\\repos\\studengradesapitests\\gradetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Migrations\\20241020125419_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241020125419_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCBF90A-F272-46C5-8398-875D986C04B6}|..\\StudenGradesAPITests\\StudenGradesAPITests.csproj|c:\\users\\augus\\source\\repos\\studengradesapitests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\data\\map\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:data\\map\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\data\\map\\grademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:data\\map\\grademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\models\\grademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:models\\grademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|c:\\users\\augus\\source\\repos\\studentgradesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DFDA78-F131-4A96-8D2F-B176F325E70F}|StudentGradesAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T12:55:29.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241020125419_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Migrations\\20241020125419_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241020125419_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Migrations\\20241020125419_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241020125419_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:54:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeTests.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudenGradesAPITests\\GradeTests.cs",
+              "RelativeDocumentMoniker": "..\\StudenGradesAPITests\\GradeTests.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudenGradesAPITests\\GradeTests.cs",
+              "RelativeToolTip": "..\\StudenGradesAPITests\\GradeTests.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:51:03.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTests.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudenGradesAPITests\\StudentTests.cs",
+              "RelativeDocumentMoniker": "..\\StudenGradesAPITests\\StudentTests.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudenGradesAPITests\\StudentTests.cs",
+              "RelativeToolTip": "..\\StudenGradesAPITests\\StudentTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:50:32.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GradeMap.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Data\\Map\\GradeMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\GradeMap.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Data\\Map\\GradeMap.cs",
+              "RelativeToolTip": "Data\\Map\\GradeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:48:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentMap.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Data\\Map\\StudentMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\StudentMap.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Data\\Map\\StudentMap.cs",
+              "RelativeToolTip": "Data\\Map\\StudentMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:48:17.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:47:57.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "Controllers\\GradeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:42:56.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:43:31.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:37:31.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GradeModel.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Models\\GradeModel.cs",
+              "RelativeDocumentMoniker": "Models\\GradeModel.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Models\\GradeModel.cs",
+              "RelativeToolTip": "Models\\GradeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:37:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\StudentGradesAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:47:21.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

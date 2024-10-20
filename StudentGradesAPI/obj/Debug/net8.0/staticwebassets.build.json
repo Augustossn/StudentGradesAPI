@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1PrpOLc8nPyx+a48VeUDCvftdANGCwCHVRyvpVFinlY=",
+  "Source": "StudentGradesAPI",
+  "BasePath": "_content/StudentGradesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
