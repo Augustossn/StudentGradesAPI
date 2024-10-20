@@ -31,3 +31,19 @@ A **Student Grades API** permite gerenciar estudantes e suas notas médias em di
 ### Deletar Estudante
 `DELETE /api/students/{id}`
 
+
+### Obter Todos as Notas
+`GET /api/grades`
+
+### Obter Nota por ID
+`GET /api/grades/{id}`
+
+### Criar Novo Nota
+`POST /api/grades`
+
+### Atualizar Nota
+`PUT /api/grades/{id}`
+
+### Deletar Nota
+`DELETE /api/grades/{id}`
+
